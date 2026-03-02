@@ -74,6 +74,7 @@ export default function ClientLayout({
   // Deployment trigger #4 - keep this harmless no-op comment
   // Redeploy trigger - redundant whitespaceless comment
   // Redeploy trigger - second redundant comment to force redeploy (no-op)
+  // Redeploy trigger - third redundant comment to test Vercel Edge outage (March 2, 2026)
   const { theme, font } = usePreferencesStore(
     useShallow(state => ({ theme: state.theme, font: state.font })),
   );
