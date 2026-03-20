@@ -207,7 +207,7 @@
     "mainColor": "oklch(78.0% 0.130 55.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.095 30.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "anime-pop",
@@ -216,7 +216,7 @@
     "backgroundColor": "oklch(95.0% 0.015 85.0 / 1)",
     "mainColor": "oklch(65.0% 0.235 345.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.200 260.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
